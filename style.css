@@ -74,11 +74,15 @@ nav ul li a:hover::after{
     font-size: 50px;
     margin-top: 60px;
     font-weight: bolder;
+    color: #c0726d;
 }
 
+.header-text p{
+    color: #c0726d;
+}
 
 .header-text h1 span{
-    color: #c0726d;
+    color: #ffbe65;
 }
 
 
