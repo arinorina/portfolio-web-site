@@ -17,7 +17,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/good-quality-girl.png);
+    background-image: url(images/best-quality-girl.png);
     background-size: cover;
     background-position: center;
 }
@@ -244,7 +244,7 @@ nav ul li a:hover::after{
 
   @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone.png);
+        background-image: url(images/phone-good-quality.png);
     }
     .header-text{
         margin-top: 97%;
